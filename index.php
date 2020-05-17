@@ -36,7 +36,7 @@
 </head>
 <body>
     <div class="result">
-        <p>Improvments</p>
+        <p>Improvements</p>
         <p><small> DIO: Introduction PHP</small></p>
 
         <form action="index.php" method="POST">
