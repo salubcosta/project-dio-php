@@ -19,4 +19,4 @@ Bellow some images of the page running
 <img src='https://raw.githubusercontent.com/salubcosta/project-dio-php/master/ScreenShot-result.png' width='100%'>
 
 Thank you for coming here,<br />
-You can know more about me at: <a href='https://www.linkedin.com/in/salumao/' target='_blank'>LinkedIn</a>
+You can know more about me at: <a href="https://www.linkedin.com/in/salumao/" target="_blank">LinkedIn</a>
